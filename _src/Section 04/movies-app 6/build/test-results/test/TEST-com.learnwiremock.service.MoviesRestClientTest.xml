@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.learnwiremock.service.MoviesRestClientTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-23T13:02:22" hostname="Dilips-MacBook-Pro.local" time="0.866">
+  <properties/>
+  <testcase name="retrieveAllMovies()" classname="com.learnwiremock.service.MoviesRestClientTest" time="0.866"/>
+  <system-out><![CDATA[movieList : [Movie(movie_id=1, cast=Christian Bale, Katie Holmes , Liam Neeson, name=Batman Begins, release_date=2005-06-15, year=2005), Movie(movie_id=2, cast=Christian Bale, Heath Ledger , Michael Caine, name=Dark Knight, release_date=2008-07-18, year=2008), Movie(movie_id=3, cast=Christian Bale, Heath Ledger , Michael Caine, name=The Dark Knight Rises, release_date=2012-07-20, year=2012), Movie(movie_id=4, cast=Robert Downey Jr, Chris Evans , Chris HemsWorth, name=The Avengers, release_date=2012-05-04, year=2012), Movie(movie_id=5, cast=Robert Downey Jr, Chris Evans , Chris HemsWorth, name=Avengers: Age of Ultron, release_date=2015-05-01, year=2015), Movie(movie_id=6, cast=Robert Downey Jr, Chris Evans , Chris HemsWorth, name=Avengers: Infinity War, release_date=2018-04-27, year=2018), Movie(movie_id=7, cast=Robert Downey Jr, Chris Evans , Chris HemsWorth, name=Avengers: End Game, release_date=2019-04-26, year=2019), Movie(movie_id=8, cast=Bradley Cooper, Ed Helms , Zach Galifianakis, name=The Hangover, release_date=2009-06-05, year=2009), Movie(movie_id=9, cast=Benedict Cumberbatch, Keira Knightley, name=The Imitation Game, release_date=2014-12-25, year=2014), Movie(movie_id=10, cast=Leonardo DiCaprio, Matt Damon , Mark Wahlberg, name=The Departed, release_date=2006-10-06, year=2006)]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

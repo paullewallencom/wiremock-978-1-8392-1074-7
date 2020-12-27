@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.learnwiremock.service.MoviesRestClientTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-25T11:49:18" hostname="Dilips-MacBook-Pro.local" time="0.637">
+  <properties/>
+  <testcase name="retrieveMoviebyYear_not_found()" classname="com.learnwiremock.service.MoviesRestClientTest" time="0.637"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] ERROR com.learnwiremock.service.MoviesRestClient - WebClientResponseException in retrieveMoviebyName. Status code is 404 and the message is {"timestamp":"2019-08-25T11:49:18.749+0000","status":404,"error":"Not Found","message":"No Movie Available with the given year - 1950","path":"/movieservice/v1/movieYear"} 
+]]></system-err>
+</testsuite>
